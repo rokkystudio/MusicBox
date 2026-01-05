@@ -38,7 +38,7 @@
 #if defined( __AVR_ATtinyX4__ ) || defined( __AVR_ATtinyX5__ )
 
 /*
-  From the '84 and '85 datasheets... By default, the successive approximation 
+  From the '84 and '85 files... By default, the successive approximation
   circuitry requires an input clock frequency between 50 kHz and 200 kHz to 
   get maximum resolution.
 */

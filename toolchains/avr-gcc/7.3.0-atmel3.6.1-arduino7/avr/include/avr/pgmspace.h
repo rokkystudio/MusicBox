@@ -619,7 +619,7 @@ why:
 - LPM instruction is not available in AVR_TINY instruction set.
 - Programs are executed starting from address 0x0000 in program memory.
 But it must be addressed starting from 0x4000 when accessed via data memory.
-Reference: TINY device (ATTiny 4,5,9,10,20 and 40) datasheets
+Reference: TINY device (ATTiny 4,5,9,10,20 and 40) files
 Bug: avrtc-536
 */
 #elif defined (__AVR_TINY__)

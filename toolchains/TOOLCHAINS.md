@@ -1,4 +1,4 @@
-# CLION-TOOLCHAINS.md
+# TOOLCHAINS.md
 
 Инструкция по сборке **MusicBox (AVR/Digispark ATtiny85)** в CLion.
 AVR тулчейн уже лежит внутри проекта.

@@ -110,7 +110,7 @@ void Adafruit_NeoPixel::show(void) {
   // rate.  There's separate code for different CPU speeds (8, 12, 16 MHz)
   // for both the WS2811 (400 KHz) and WS2812 (800 KHz) drivers.  The
   // datastream timing for the LED drivers allows a little wiggle room each
-  // way (listed in the datasheets), so the conditions for compiling each
+  // way (listed in the files), so the conditions for compiling each
   // case are set up for a range of frequencies rather than just the exact
   // 8, 12 or 16 MHz values, permitting use with some close-but-not-spot-on
   // devices (e.g. 16.5 MHz DigiSpark).  The ranges were arrived at based
